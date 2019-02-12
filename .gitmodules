@@ -1,3 +1,0 @@
-[submodule "google_tag_manager"]
-	path = google_tag_manager
-	url = git@github.com:viernes/google_tag_manager.git
